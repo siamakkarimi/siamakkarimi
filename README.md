@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siamakkarimi
-- 👀 I’m interested in Next.js, Web3.0, Python and machine learning
+- 👀 I’m interested in Next.js, React, Web3.0
 - 🌱 I’m currently learning Next.js and Web3.0
 - 💞️ I’m looking to collaborate on Next.js, Web3.0 and Thinking Platforms
 - 📫 How to reach me ...
